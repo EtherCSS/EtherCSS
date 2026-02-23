@@ -43,7 +43,7 @@
 - 🛠️ Architecting **web apps, interactive dashboards, and scalable admin systems**.
 - 💬 Passionate about **clean UI/UX, feature-rich functionality, and practical problem-solving**.
 - 🔐 Prioritizing **secure coding practices** (data sanitization, robust auth flows, API security).
-- 📫 Let's connect: **your-email@example.com**
+- 📫 Let's connect: **robloxgaming1022@gmail.com**
 
 ### 💼 Current Focus Areas
 - Implementing modular project structures (`assets/`, `includes/`, `config/`).
