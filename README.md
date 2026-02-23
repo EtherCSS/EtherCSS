@@ -152,66 +152,204 @@
 
 ## 📌 Featured Projects
 
-> Based on your current repositories + portfolio. Update descriptions anytime.
+<p align="center">
+  <img src="https://img.shields.io/badge/Project%20Showcase-Full%20Stack%20%7C%20Education%20%7C%20Dashboards-2563eb?style=for-the-badge&labelColor=0f172a" />
+</p>
+
+<p align="center">
+  <sub>Selected projects that reflect my current work in web systems, dashboards, guides, and education-focused tools.</sub>
+</p>
+
+---
+
+### 🌟 Featured Repository Cards
+
+<p align="center">
+  <a href="https://github.com/EtherCSS/NCOI-Dashboard-TI-TVII">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EtherCSS&repo=NCOI-Dashboard-TI-TVII&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0&icon_color=3b82f6" alt="NCOI Dashboard TI-TVII" />
+  </a>
+  <a href="https://github.com/EtherCSS/ARAL-literacy-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EtherCSS&repo=ARAL-literacy-Tracker&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0&icon_color=3b82f6" alt="ARAL literacy Tracker" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/EtherCSS/css-nc-ii-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EtherCSS&repo=css-nc-ii-portal&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0&icon_color=3b82f6" alt="css-nc-ii-portal" />
+  </a>
+  <a href="https://github.com/EtherCSS/NCOI-Guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EtherCSS&repo=NCOI-Guide&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0&icon_color=3b82f6" alt="NCOI Guide" />
+  </a>
+</p>
+
+---
+
+### 🧩 Project Showcase (Detailed)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 CSS NC II Portal</h3>
-      <p>Portal project related to CSS NC II workflows/resources with a structured web interface.</p>
-      <p><strong>Repo:</strong> <a href="https://github.com/EtherCSS/css-nc-ii-portal">css-nc-ii-portal</a></p>
-      <p>
-        <img src="https://img.shields.io/badge/Type-Portal-2563eb?style=flat-square" />
-        <img src="https://img.shields.io/badge/Language-HTML-f97316?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>📊 NCOI Dashboard TI-TVII</h3>
-      <p>Dashboard-style project for NCOI tracking, visual reporting, and information management.</p>
-      <p><strong>Repo:</strong> <a href="https://github.com/EtherCSS/NCOI-Dashboard-TI-TVII">NCOI-Dashboard-TI-TVII</a></p>
+      <p>Dashboard-style system for tracking records, summaries, and reporting workflows with a clean interface.</p>
+
       <p>
         <img src="https://img.shields.io/badge/Type-Dashboard-1d4ed8?style=flat-square" />
         <img src="https://img.shields.io/badge/Focus-Reporting-3b82f6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-16a34a?style=flat-square" />
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📘 NCOI Guide</h3>
-      <p>Guide/documentation repository for NCOI-related instructions and resources.</p>
-      <p><strong>Repo:</strong> <a href="https://github.com/EtherCSS/NCOI-Guide">NCOI-Guide</a></p>
+
       <p>
-        <img src="https://img.shields.io/badge/Type-Guide-2563eb?style=flat-square" />
-        <img src="https://img.shields.io/badge/Language-HTML-f97316?style=flat-square" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+
+      <ul>
+        <li>Data visualization / summaries</li>
+        <li>Dashboard-style UI</li>
+        <li>Record and reporting workflows</li>
+      </ul>
+
+      <p>
+        <a href="https://github.com/EtherCSS/NCOI-Dashboard-TI-TVII">
+          <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>📚 ARAL Literacy Tracker</h3>
-      <p>Tracking-focused project for literacy-related records and monitoring workflows.</p>
-      <p><strong>Repo:</strong> <a href="https://github.com/EtherCSS/ARAL-literacy-Tracker">ARAL-literacy-Tracker</a></p>
+      <p>Education-focused tracking project for literacy records, monitoring, and progress-related workflows.</p>
+
       <p>
         <img src="https://img.shields.io/badge/Type-Tracker-0ea5e9?style=flat-square" />
         <img src="https://img.shields.io/badge/Use%20Case-Education-16a34a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-16a34a?style=flat-square" />
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+
+      <ul>
+        <li>Literacy monitoring workflows</li>
+        <li>Education record tracking</li>
+        <li>Structured project organization</li>
+      </ul>
+
+      <p>
+        <a href="https://github.com/EtherCSS/ARAL-literacy-Tracker">
+          <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧾 CSS NC II Portal</h3>
+      <p>Portal-style project related to CSS NC II resources/workflows with a structured and user-friendly interface.</p>
+
+      <p>
+        <img src="https://img.shields.io/badge/Type-Portal-2563eb?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Training%20%2F%20Resources-3b82f6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-16a34a?style=flat-square" />
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+
+      <ul>
+        <li>Portal layout and navigation</li>
+        <li>Training/resource presentation</li>
+        <li>Clean UI structure</li>
+      </ul>
+
+      <p>
+        <a href="https://github.com/EtherCSS/css-nc-ii-portal">
+          <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>📘 NCOI Guide</h3>
+      <p>Guide/documentation repository for NCOI-related instructions, references, and organized learning materials.</p>
+
+      <p>
+        <img src="https://img.shields.io/badge/Type-Guide-2563eb?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Documentation-1d4ed8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Maintained-16a34a?style=flat-square" />
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+
+      <ul>
+        <li>Structured guidance content</li>
+        <li>Reference-style layout</li>
+        <li>Documentation-focused repository</li>
+      </ul>
+
+      <p>
+        <a href="https://github.com/EtherCSS/NCOI-Guide">
+          <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio (Vercel)</h3>
-      <p>My portfolio website showcasing projects, skills, and developer profile.</p>
-      <p><strong>Live:</strong> <a href="https://showcase-rosy-one.vercel.app/">showcase-rosy-one.vercel.app</a></p>
+      <p>My portfolio website showcasing projects, skills, and my developer profile in a modern presentation.</p>
+
       <p>
         <img src="https://img.shields.io/badge/Type-Portfolio-2563eb?style=flat-square" />
         <img src="https://img.shields.io/badge/Hosted%20on-Vercel-111827?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-Live-16a34a?style=flat-square" />
+      </p>
+
+      <ul>
+        <li>Project showcase and profile</li>
+        <li>Live deployment on Vercel</li>
+        <li>Professional public portfolio</li>
+      </ul>
+
+      <p>
+        <a href="https://showcase-rosy-one.vercel.app/">
+          <img src="https://img.shields.io/badge/View%20Live%20Site-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3>🧩 SMART</h3>
-      <p>Project repository for SMART (expand this description with your exact purpose/features).</p>
-      <p><strong>Repo:</strong> <a href="https://github.com/EtherCSS/SMART">SMART</a></p>
+      <p>Project repository for SMART. Update this card with your exact project purpose, users, and main features.</p>
+
       <p>
         <img src="https://img.shields.io/badge/Type-Project-1d4ed8?style=flat-square" />
         <img src="https://img.shields.io/badge/Status-Active-16a34a?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stage-Improving-f59e0b?style=flat-square" />
+      </p>
+
+      <ul>
+        <li>Custom project workflow</li>
+        <li>Ongoing improvements</li>
+        <li>Ready for better documentation</li>
+      </ul>
+
+      <p>
+        <a href="https://github.com/EtherCSS/SMART">
+          <img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
@@ -224,7 +362,6 @@
 - <a href="https://github.com/EtherCSS/DepEd-NCOI-guide">DepEd-NCOI-guide</a>
 
 </details>
-
 ---
 
 ## 📈 GitHub Analytics
