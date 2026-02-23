@@ -5,7 +5,7 @@
 <!-- HERO BANNER -->
 <p align="center">
   <img
-    src="https://showcase-rosy-one.vercel.app/type=waving&height=260&color=0:0f172a,40:1d4ed8,70:2563eb,100:38bdf8&text=EtherCSS&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Aspiring%20Full-Stack%20Web%20Developer%20%7C%20PHP%20%7C%20JavaScript%20%7C%20MySQL&descColor=e2e8f0&descAlignY=60&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,40:1d4ed8,70:2563eb,100:38bdf8&text=EtherCSS&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Aspiring%20Full-Stack%20Web%20Developer%20%7C%20PHP%20%7C%20JavaScript%20%7C%20MySQL&descColor=e2e8f0&descAlignY=60&animation=fadeIn"
     alt="banner"
     width="100%"
   />
@@ -42,8 +42,8 @@
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://showcase-rosy-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel%20Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -152,7 +152,7 @@
 
 ## 📌 Featured Projects
 
-> These are based on your current repositories. You can update descriptions anytime.
+> Based on your current repositories + portfolio. Update descriptions anytime.
 
 <table>
   <tr>
@@ -167,7 +167,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📊 NCOI Dashboard TI-TVII</h3>
-      <p>Dashboard-style project for NCOI tracking/visual reporting and information management.</p>
+      <p>Dashboard-style project for NCOI tracking, visual reporting, and information management.</p>
       <p><strong>Repo:</strong> <a href="https://github.com/EtherCSS/NCOI-Dashboard-TI-TVII">NCOI-Dashboard-TI-TVII</a></p>
       <p>
         <img src="https://img.shields.io/badge/Type-Dashboard-1d4ed8?style=flat-square" />
@@ -195,6 +195,26 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio (Vercel)</h3>
+      <p>My portfolio website showcasing projects, skills, and developer profile.</p>
+      <p><strong>Live:</strong> <a href="https://showcase-rosy-one.vercel.app/">showcase-rosy-one.vercel.app</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Type-Portfolio-2563eb?style=flat-square" />
+        <img src="https://img.shields.io/badge/Hosted%20on-Vercel-111827?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 SMART</h3>
+      <p>Project repository for SMART (expand this description with your exact purpose/features).</p>
+      <p><strong>Repo:</strong> <a href="https://github.com/EtherCSS/SMART">SMART</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Type-Project-1d4ed8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Active-16a34a?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -202,7 +222,6 @@
   <br/>
 
 - <a href="https://github.com/EtherCSS/DepEd-NCOI-guide">DepEd-NCOI-guide</a>
-- <a href="https://github.com/EtherCSS/SMART">SMART</a>
 
 </details>
 
